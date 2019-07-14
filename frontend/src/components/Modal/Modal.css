@@ -5,11 +5,13 @@
   position: fixed;
   top: 20vh;
   left: 5%;
+  z-index: 100;
 }
 
 .modal__header {
   padding: 1rem;
   background: #01d1d1;
+  color: white;
 }
 
 .modal__header h1 {
